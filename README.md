@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Selectel is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://selectel.ru/
+Selectel is a Russian cloud services provider offering a range of infrastructure solutions including virtual private servers, block storage, object storage, and managed Kubernetes. It serves developers and enterprises with a focus on performance, security, and flexible pricing, operating data centers across multiple regions. The company provides extensive documentation, APIs, and a developer portal to integrate cloud resources programmatically.
+
+**Areas:** Cloud · Infrastructure · VPS · Storage · Kubernetes
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://selectel.ru/)
+- [Documentation](https://docs.selectel.ru/)
+- [Support](https://selectel.ru/support)
+- [Blog](https://selectel.ru/blog/)
+- [Security](https://selectel.ru/about/security/)
+- [Terms of service](https://files.selectel.ru/docs/ru/terms-of-use-for-services.pdf)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/selectel/](https://apis.io/providers/selectel/).
